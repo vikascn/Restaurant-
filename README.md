@@ -7,6 +7,7 @@ Built the webserver using Flask framework.
 
 
 Programming languages used : Python, HTML, CSS, JSON
+
 Libraries/Frameworks used : SQLAlchemy, Flask
 
 To run this application :
