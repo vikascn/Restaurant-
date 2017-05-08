@@ -1,4 +1,4 @@
-To run this final project
+To run this application
 
 1. run database_setup.py to create the database
 
