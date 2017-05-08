@@ -4,7 +4,7 @@ Web application to view all the restaurants, create a new restaurant and their f
 Perform CRUD(Create, Read, Update, Delete) operations on the backend database.
 Used SQLAlchemy toolkit for its Object-Relational mapper(ORM) feature to interact with the db from the application.
 Built the webserver using Flask framework.
-
+A snapshot of the website is added above. 
 
 Programming languages used : Python, HTML, CSS, JSON
 
