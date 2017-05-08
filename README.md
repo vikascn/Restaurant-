@@ -5,6 +5,7 @@ Perform CRUD(Create, Read, Update, Delete) operations on the backend database.
 Used SQLAlchemy toolkit for its Object-Relational mapper(ORM) feature to interact with the db from the application.
 Built the webserver using Flask framework.
 
+
 Programming languages used : Python, HTML, CSS, JSON
 Libraries/Frameworks used : SQLAlchemy, Flask
 
