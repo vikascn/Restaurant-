@@ -10,6 +10,7 @@ Programming languages used : Python, HTML, CSS, JSON
 
 Libraries/Frameworks used : SQLAlchemy, Flask
 
+
 To run this application :
 
 1. run database_setup.py to create the database
